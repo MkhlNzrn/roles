@@ -1,3 +1,6 @@
 ---
 _postgresql_keyring_path: /usr/share/keyrings/postgresql.asc
 _postgresql_user: postgres
+postgresql_data_directory: /var/lib/postgresql/14/main
+postgresql_replication_user_name: replica
+postgresql_replication_user_password: replication_password
