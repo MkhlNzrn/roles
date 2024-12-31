@@ -1,0 +1,4 @@
+---
+- src: git+https://github.com/MkhlNzrn/roles.git
+  scm: git
+  name: postgresql
